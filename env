@@ -1,0 +1,8 @@
+PORT=1337
+# grocy_url=localhost
+# grocy_port=36637
+# grocy_key=FasdmiSStDDD9vz6S2xMDfOHVQrDIXc03VkhiagDRhACndO7qV
+
+grocy_url=demo.grocy.info
+grocy_port=443
+grocy_key=FasdmiSStDDD9vz6S2xMDfOHVQrDIXc03VkhiagDRhACndO7qV
