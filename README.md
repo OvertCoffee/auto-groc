@@ -1,5 +1,5 @@
 # AutoGroc
-A project for automating inventory management in grocy.
+ project for automating inventory management in grocy.
 
 ## Setup
 Create a .env file in the root of the api directory. See env for an example. Required fields:
@@ -15,3 +15,5 @@ Create a .env file in the root of the api directory. See env for an example. Req
 
 * grocy_key
   * API key generated in grocy's UI
+
+test
