@@ -15,10 +15,3 @@ Create a .env file in the root of the api directory. See env for an example. Req
 
 * grocy_key
   * API key generated in grocy's UI
-
-<<<<<<< HEAD
-test
-=======
-
-This is my test
->>>>>>> 505e4505c6d0509e1913802018235ce1d0db53b6
